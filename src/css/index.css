@@ -1,0 +1,15 @@
+@import 'base.css';
+
+body{
+    background-color: red;
+    color: white;
+    transform: rotateX(45deg);
+}
+.image{
+    width: 100px;
+    height: 100px;
+    background: url('~@/images/logo.png') no-repeat;
+}
+.wuyong{
+    width: 111px;
+}
